@@ -18,4 +18,4 @@ Complejidad lineal (O(n)) → Optimiza memoria y tiempo
 Conclusión clave: La elección algorítmica impacta directamente en la performance. Lo que funciona para casos pequeños puede ser inviable a escala.
 
 Link video youtube:
-https://www.youtube.com/watch?v=FQPt2o90tkE&ab_channel=FranciscoMeier
+https://youtu.be/KpdXReWClyg
